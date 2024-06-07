@@ -1,12 +1,16 @@
 import java.util.*;
 
 class Task1 {
+
     
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int chances = 8;
         int finals = 0;
         boolean playAgain = true;
+       
+        System.out.println("Welcome to playground");
+        System.out.println("Welcome to playground");
         System.out.println("Welcome to playground");
         System.out.println("Hey! You have about to win the game" + chances);
         while (playAgain) {
