@@ -2,11 +2,10 @@ import java.util.Scanner;
 
 public class Task2 {
 
-    //student_grade-cal
+    //student_grade-calculator
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-        System.out.println("Student garde calculator");
-        System.out.println("Student garde calculator");
+        System.out.println("Student grade calculator");
         System.out.println("Enter no of subject");
         int nS=sc.nextInt();
         int total=0;
