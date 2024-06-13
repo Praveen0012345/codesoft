@@ -11,7 +11,7 @@ public class Task2 {
         int total=0;
        
        
-        for(int i=1;i<nS;i++){
+        for(int i=0;i<nS;i++){
             System.out.println("Enter marks obtain in "+i+":");
             int marks=sc.nextInt();
             total+=marks;
